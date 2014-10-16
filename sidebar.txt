@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[arl:home|Door43 (arl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-arl|d43-arl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-arl/archive/master.zip|d43-arl.zip]]
+
+**Recent Changes**
+{{changes>ns = arl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/arl|Ethnologue data]]
+
